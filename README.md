@@ -12,3 +12,10 @@ Hi, i'm a beginner frontend developer. I like to code a lot and hope to find a j
 ---
 ## Skills
 ![](./assets/html-5.png) ![](./assets/css-3.png) ![](./assets/js.png) ![](./assets/sass.png) ![](./assets/figma.png) ![](./assets/node-js.png) ![](./assets/visual-basic.png)
+
+---
+## Soft skills
+* ⚒️ Hard working
+* 🤝🏼 Communicable
+* 🤓 Curious
+* 🚭 No bad habits
