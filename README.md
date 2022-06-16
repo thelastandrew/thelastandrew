@@ -19,3 +19,9 @@ Hi, i'm a beginner frontend developer. I like to code a lot and hope to find a j
 * 🤝🏼 Communicable
 * 🤓 Curious
 * 🚭 No bad habits
+---
+## Education
+- **Sept 2021** [freeCodeCamp.org](https://www.freecodecamp.org/) | [Certificate](https://www.freecodecamp.org/certification/fcce97f825b-fcd3-4c69-a35c-9f3f005c06e3/responsive-web-design)</br>
+- **Dec 2021 - March 2022** [RS School (Stage 0)](https://rs.school/) | [Certificate](https://app.rs.school/certificate/1pasast8)</br>
+- **March 20221 - Current time** [RS School (Stage 1,2,3)](https://rs.school/)
+- **Continuously** [Codewars](https://www.codewars.com/) | <img src='https://www.codewars.com/users/thelastandrew/badges/micro' style='vertical-align: bottom;'>
