@@ -25,3 +25,6 @@ Hi, i'm a beginner frontend developer. I like to code a lot and hope to find a j
 - **Dec 2021 - March 2022** [RS School (Stage 0)](https://rs.school/) | [Certificate](https://app.rs.school/certificate/1pasast8)</br>
 - **March 20221 - Current time** [RS School (Stage 1,2,3)](https://rs.school/)
 - **Continuously** [Codewars](https://www.codewars.com/) | <img src='https://www.codewars.com/users/thelastandrew/badges/micro' style='vertical-align: bottom;'>
+---
+## Work Experience
+I'm here to get one!
