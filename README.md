@@ -28,3 +28,8 @@ Hi, i'm a beginner frontend developer. I like to code a lot and hope to find a j
 ---
 ## Work Experience
 I'm here to get one!
+
+---
+## Contacts
+* Telegram: @thelastandrew
+* E-mail: thelastandrew@gmail.com
